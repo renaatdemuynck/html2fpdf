@@ -1,0 +1,16 @@
+{
+    "name": "renatoac83/html2fpdf",
+    "description": "Old simple HTML 2 PDF script",
+    "type": "library",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Renato Araujo Costa",
+            "email": "renatoac83@gmail.com"
+        },
+        {
+            "name": "Renaat De Muynck",
+            "email": "renaat.demuynck@gmail.com"
+        }
+    ]
+}
